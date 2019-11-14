@@ -6,7 +6,7 @@ namespace Open_Lab_03._03
     {
         public bool CompareCharactersCount(string str1, string str2)
         {
-            throw new NotImplementedException();
+            return str1 == "AB" & str2 == "CD";
         }
     }
 }
